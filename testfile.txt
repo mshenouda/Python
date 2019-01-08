@@ -1,1 +1,0 @@
-This file is only meant to test merge and pull features of git
