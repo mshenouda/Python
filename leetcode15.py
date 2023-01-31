@@ -103,3 +103,5 @@ def bar(x, *y, **z):
     print(z)
 
 bar(5,6,7, a=3, b=5)
+
+5 not i
