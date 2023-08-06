@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 from heapq import heapify, heappush
 from math import ceil
@@ -737,13 +736,8 @@ nums = [1,2,3,3,4,4,5,5]
 result = isPossible(nums)
 print("Result is {0}".format(result))
 
-=======
-
 from heapq import heapify, heappush
 from math import ceil
-
-from numpy import Inf
-
 
 def singleNonDuplicate(nums):
     n = len(nums)
@@ -1476,5 +1470,4 @@ nums = [1,2,3,3,4,4,5,5]
 result = isPossible(nums)
 print("Result is {0}".format(result))
 
->>>>>>> 6491f59943a7f2d401bac25b7dedf78025fc6ea7
         
